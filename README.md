@@ -22,7 +22,6 @@ I'm **Giovanni**, a developer with a background in **philosophy and education**.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
+---
 
 🧠 `const existence = think() ? "I am" : null;`
