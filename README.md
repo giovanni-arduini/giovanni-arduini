@@ -5,7 +5,8 @@ I'm **Giovanni**, a developer with a background in **philosophy and education**.
 ## 👨‍💻 What I do
 
 - 🔭 I'm currently working on a 👉 [**music e-commerce catalog**](https://github.com/giovanni-arduini/guitars-typescript?tab=readme-ov-file#readme) with favorites and products comparison sections (TypeScript, React, Tailwind)  
-- 🎮 Check out my 👉 [**turn-based FF/Pokémon-like game**](https://github.com/giovanni-arduini/Vue-excercise/tree/main/Monster%20Slayer) (Vue.js)  
+- 🎮 Check out my 👉 [**turn-based FF/Pokémon-like game**](https://github.com/giovanni-arduini/Vue-excercise/tree/main/Monster%20Slayer) (Vue.js)
+- 💹 Here's my first chrome extension, [**a handy currency converter**](https://github.com/giovanni-arduini/values-converter), including rating graphics  (React, TypeScript, Tailwind)
 - 🌱 I'm learning **Vue.js**, **TypeScript**, and **PHP** to expand my developer toolkit  
 - 🤝 I enjoy collaborating on **thoughtful**, **challenging** projects, especially those that involve **new technologies** and a **human touch**
 <!--- - 💡 I'm passionate about creating tools that solve real-world problems — like my app for finding **free parking spots**  -->
